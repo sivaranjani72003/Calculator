@@ -1,2 +1,2 @@
 # Calculator
-https://soupa2003.github.io/Calculator/
+https://sivaranjani72003.github.io/Calculator/
